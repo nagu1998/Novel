@@ -56,8 +56,6 @@ epilogue :
 				
 				
 ========================================================================================================================================================
-scene 2 : asking for a pen 
-submiting a form
 asking for washroom
 then come back and enquiry about patient and floar
 waiting outside the room
